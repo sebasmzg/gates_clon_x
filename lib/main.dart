@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           tabBarTheme: const TabBarTheme(
             labelStyle: TextStyle(
               fontWeight: FontWeight.bold,
-              fontSize: 18,
+              fontSize: 15,
             ),
             unselectedLabelStyle: TextStyle(
               fontWeight: FontWeight.bold,
